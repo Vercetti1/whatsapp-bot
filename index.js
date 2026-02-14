@@ -201,3 +201,4 @@ client.on('message_revoke_everyone', async (after, before) => {
 
 console.log('Initializing client...');
 client.initialize();
+

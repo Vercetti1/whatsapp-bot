@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# WhatsApp Session Data (Private)
+.wwebjs_auth/
+.wwebjs_auth_backup/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
